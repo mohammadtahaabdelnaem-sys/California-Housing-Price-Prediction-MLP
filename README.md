@@ -23,7 +23,7 @@ Two mandatory experiments were conducted by changing the activation functions, n
 | **Exp 2: Enhanced** | [64, 32, 16] | `tanh` | 0.001 | Dropout (0.2) | **0.3099** | 0.3769 |
 
 # Visualizations (Training vs Validation Loss)
-![Loss Curves](loss_curves.png)
+![Loss Curves](download.png)
 
 # Discussion for Discussion/Interview:
 * **Experiment 1** achieved a slightly better Test MSE (**0.2969**), showing that a simpler architecture with `relu` activation converges very efficiently on this dataset.
